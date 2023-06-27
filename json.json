@@ -1,0 +1,940 @@
+{
+    "kind": "Listing",
+    "data": {
+        "after": "t3_1495poh",
+        "dist": 2,
+        "modhash": null,
+        "geo_filter": null,
+        "children": [
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "gadgets",
+                    "selftext": "",
+                    "author_fullname": "t2_600muuy8",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "For reasons no one can fathom, McDonald’s has released a new Game Boy Color game",
+                    "link_flair_richtext": [],
+                    "subreddit_name_prefixed": "r/gadgets",
+                    "hidden": false,
+                    "pwls": 6,
+                    "link_flair_css_class": "gaming",
+                    "downs": 0,
+                    "thumbnail_height": 70,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "name": "t3_1494q2t",
+                    "quarantine": false,
+                    "link_flair_text_color": "dark",
+                    "upvote_ratio": 0.91,
+                    "author_flair_background_color": null,
+                    "ups": 8435,
+                    "domain": "arstechnica.com",
+                    "media_embed": {},
+                    "thumbnail_width": 140,
+                    "author_flair_template_id": null,
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": false,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": "Gaming",
+                    "can_mod_post": false,
+                    "score": 8435,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": true,
+                    "thumbnail": "https://b.thumbs.redditmedia.com/O0GxAe1mQp6tvCRiynX3zllUh6n6Dhe_2vqqSvcn1qM.jpg",
+                    "edited": false,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [],
+                    "gildings": {},
+                    "post_hint": "link",
+                    "content_categories": null,
+                    "is_self": false,
+                    "subreddit_type": "public",
+                    "created": 1686739807.0,
+                    "link_flair_type": "text",
+                    "wls": 6,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "text",
+                    "total_awards_received": 3,
+                    "allow_live_comments": true,
+                    "selftext_html": null,
+                    "likes": null,
+                    "suggested_sort": null,
+                    "banned_at_utc": null,
+                    "url_overridden_by_dest": "https://arstechnica.com/gaming/2023/06/for-reasons-no-one-can-fathom-mcdonalds-has-released-a-new-game-boy-color-game/",
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": false,
+                    "is_crosspostable": true,
+                    "pinned": false,
+                    "over_18": false,
+                    "preview": {
+                        "images": [
+                            {
+                                "source": {
+                                    "url": "https://external-preview.redd.it/g0tI3A8zKTNXCdVPKuta7ulWLYab-oKyToaoQhaEMIo.jpg?auto=webp&amp;v=enabled&amp;s=a6c647ee5ae58aa542169844fdd0f27e44adb6bc",
+                                    "width": 760,
+                                    "height": 380
+                                },
+                                "resolutions": [
+                                    {
+                                        "url": "https://external-preview.redd.it/g0tI3A8zKTNXCdVPKuta7ulWLYab-oKyToaoQhaEMIo.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=ca0070720833a769ce5080557deb3e11f71cc8cd",
+                                        "width": 108,
+                                        "height": 54
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/g0tI3A8zKTNXCdVPKuta7ulWLYab-oKyToaoQhaEMIo.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=e52ac81564adb1e52e722c1c6c7d92e551a262ea",
+                                        "width": 216,
+                                        "height": 108
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/g0tI3A8zKTNXCdVPKuta7ulWLYab-oKyToaoQhaEMIo.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=ae4bf6b38037914bfc64c2b0cb3a846b168c27fa",
+                                        "width": 320,
+                                        "height": 160
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/g0tI3A8zKTNXCdVPKuta7ulWLYab-oKyToaoQhaEMIo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=847a8e39123f199e305d52968155b9bd1bcf80d2",
+                                        "width": 640,
+                                        "height": 320
+                                    }
+                                ],
+                                "variants": {},
+                                "id": "wQ5A3f45E6-ocEXyo1aAnPJ3-Y4N5QcAXH4wd_Gl9GU"
+                            }
+                        ],
+                        "enabled": false
+                    },
+                    "all_awardings": [
+                        {
+                            "giver_coin_reward": null,
+                            "subreddit_id": null,
+                            "is_new": false,
+                            "days_of_drip_extension": null,
+                            "coin_price": 30,
+                            "id": "award_c4b2e438-16bb-4568-88e7-7893b7662944",
+                            "penny_donate": null,
+                            "award_sub_type": "PREMIUM",
+                            "coin_reward": 0,
+                            "icon_url": "https://i.redd.it/award_images/t5_22cerq/b9ks3a5k7jj41_WholesomeSealofApproval.png",
+                            "days_of_premium": null,
+                            "tiers_by_required_awardings": null,
+                            "resized_icons": [
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/b9ks3a5k7jj41_WholesomeSealofApproval.png?width=16&amp;height=16&amp;auto=webp&amp;v=enabled&amp;s=703f779c36fa6c24a87048219c8ad79c38f588dc",
+                                    "width": 16,
+                                    "height": 16
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/b9ks3a5k7jj41_WholesomeSealofApproval.png?width=32&amp;height=32&amp;auto=webp&amp;v=enabled&amp;s=f1353fd49988371ae4b98114d2f30ad3abd2435e",
+                                    "width": 32,
+                                    "height": 32
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/b9ks3a5k7jj41_WholesomeSealofApproval.png?width=48&amp;height=48&amp;auto=webp&amp;v=enabled&amp;s=a6325378b5acbd6940233feeeab0d6cc936467c9",
+                                    "width": 48,
+                                    "height": 48
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/b9ks3a5k7jj41_WholesomeSealofApproval.png?width=64&amp;height=64&amp;auto=webp&amp;v=enabled&amp;s=aa1d8321e60dc611ebc686f814b0ad996d1056c5",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/b9ks3a5k7jj41_WholesomeSealofApproval.png?width=128&amp;height=128&amp;auto=webp&amp;v=enabled&amp;s=4c5a9a5cf1591f7074c67a67339e34fbf34a3107",
+                                    "width": 128,
+                                    "height": 128
+                                }
+                            ],
+                            "icon_width": 2048,
+                            "static_icon_width": 2048,
+                            "start_date": null,
+                            "is_enabled": true,
+                            "awardings_required_to_grant_benefits": null,
+                            "description": "A glittering stamp for a feel-good thing",
+                            "end_date": null,
+                            "sticky_duration_seconds": null,
+                            "subreddit_coin_reward": 0,
+                            "count": 1,
+                            "static_icon_height": 2048,
+                            "name": "Wholesome Seal of Approval",
+                            "resized_static_icons": [
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/b9ks3a5k7jj41_WholesomeSealofApproval.png?width=16&amp;height=16&amp;auto=webp&amp;v=enabled&amp;s=703f779c36fa6c24a87048219c8ad79c38f588dc",
+                                    "width": 16,
+                                    "height": 16
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/b9ks3a5k7jj41_WholesomeSealofApproval.png?width=32&amp;height=32&amp;auto=webp&amp;v=enabled&amp;s=f1353fd49988371ae4b98114d2f30ad3abd2435e",
+                                    "width": 32,
+                                    "height": 32
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/b9ks3a5k7jj41_WholesomeSealofApproval.png?width=48&amp;height=48&amp;auto=webp&amp;v=enabled&amp;s=a6325378b5acbd6940233feeeab0d6cc936467c9",
+                                    "width": 48,
+                                    "height": 48
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/b9ks3a5k7jj41_WholesomeSealofApproval.png?width=64&amp;height=64&amp;auto=webp&amp;v=enabled&amp;s=aa1d8321e60dc611ebc686f814b0ad996d1056c5",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/b9ks3a5k7jj41_WholesomeSealofApproval.png?width=128&amp;height=128&amp;auto=webp&amp;v=enabled&amp;s=4c5a9a5cf1591f7074c67a67339e34fbf34a3107",
+                                    "width": 128,
+                                    "height": 128
+                                }
+                            ],
+                            "icon_format": null,
+                            "icon_height": 2048,
+                            "penny_price": null,
+                            "award_type": "global",
+                            "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/b9ks3a5k7jj41_WholesomeSealofApproval.png"
+                        },
+                        {
+                            "giver_coin_reward": null,
+                            "subreddit_id": null,
+                            "is_new": false,
+                            "days_of_drip_extension": null,
+                            "coin_price": 200,
+                            "id": "award_8dc476c7-1478-4d41-b940-f139e58f7756",
+                            "penny_donate": null,
+                            "award_sub_type": "GLOBAL",
+                            "coin_reward": 0,
+                            "icon_url": "https://i.redd.it/award_images/t5_22cerq/9avdcwgupta41_GottheW.png",
+                            "days_of_premium": null,
+                            "tiers_by_required_awardings": null,
+                            "resized_icons": [
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/9avdcwgupta41_GottheW.png?width=16&amp;height=16&amp;auto=webp&amp;v=enabled&amp;s=195a0e2cd31ce780f362875a08b2586c60d34361",
+                                    "width": 16,
+                                    "height": 16
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/9avdcwgupta41_GottheW.png?width=32&amp;height=32&amp;auto=webp&amp;v=enabled&amp;s=bef4c2ea8fa2712d3b28cde76ab36b4ab918c0f1",
+                                    "width": 32,
+                                    "height": 32
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/9avdcwgupta41_GottheW.png?width=48&amp;height=48&amp;auto=webp&amp;v=enabled&amp;s=e24e55caaf2b6bc4febaa6c28f66abbbd9f0ec93",
+                                    "width": 48,
+                                    "height": 48
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/9avdcwgupta41_GottheW.png?width=64&amp;height=64&amp;auto=webp&amp;v=enabled&amp;s=f7d93ceb936457b31fe4ac37813b1f89ba5cd1fc",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/9avdcwgupta41_GottheW.png?width=128&amp;height=128&amp;auto=webp&amp;v=enabled&amp;s=cff2c0cd4c4add9194cf5f62d2d31513c35ff8b3",
+                                    "width": 128,
+                                    "height": 128
+                                }
+                            ],
+                            "icon_width": 2048,
+                            "static_icon_width": 2048,
+                            "start_date": null,
+                            "is_enabled": true,
+                            "awardings_required_to_grant_benefits": null,
+                            "description": "",
+                            "end_date": null,
+                            "sticky_duration_seconds": null,
+                            "subreddit_coin_reward": 0,
+                            "count": 1,
+                            "static_icon_height": 2048,
+                            "name": "Got the W",
+                            "resized_static_icons": [
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/9avdcwgupta41_GottheW.png?width=16&amp;height=16&amp;auto=webp&amp;v=enabled&amp;s=195a0e2cd31ce780f362875a08b2586c60d34361",
+                                    "width": 16,
+                                    "height": 16
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/9avdcwgupta41_GottheW.png?width=32&amp;height=32&amp;auto=webp&amp;v=enabled&amp;s=bef4c2ea8fa2712d3b28cde76ab36b4ab918c0f1",
+                                    "width": 32,
+                                    "height": 32
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/9avdcwgupta41_GottheW.png?width=48&amp;height=48&amp;auto=webp&amp;v=enabled&amp;s=e24e55caaf2b6bc4febaa6c28f66abbbd9f0ec93",
+                                    "width": 48,
+                                    "height": 48
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/9avdcwgupta41_GottheW.png?width=64&amp;height=64&amp;auto=webp&amp;v=enabled&amp;s=f7d93ceb936457b31fe4ac37813b1f89ba5cd1fc",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/9avdcwgupta41_GottheW.png?width=128&amp;height=128&amp;auto=webp&amp;v=enabled&amp;s=cff2c0cd4c4add9194cf5f62d2d31513c35ff8b3",
+                                    "width": 128,
+                                    "height": 128
+                                }
+                            ],
+                            "icon_format": null,
+                            "icon_height": 2048,
+                            "penny_price": null,
+                            "award_type": "global",
+                            "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/9avdcwgupta41_GottheW.png"
+                        },
+                        {
+                            "giver_coin_reward": null,
+                            "subreddit_id": null,
+                            "is_new": false,
+                            "days_of_drip_extension": null,
+                            "coin_price": 20,
+                            "id": "award_abb865cf-620b-4219-8777-3658cf9091fb",
+                            "penny_donate": null,
+                            "award_sub_type": "PREMIUM",
+                            "coin_reward": 0,
+                            "icon_url": "https://www.redditstatic.com/gold/awards/icon/Starstruck_512.png",
+                            "days_of_premium": null,
+                            "tiers_by_required_awardings": null,
+                            "resized_icons": [
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/Starstruck_16.png",
+                                    "width": 16,
+                                    "height": 16
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/Starstruck_32.png",
+                                    "width": 32,
+                                    "height": 32
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/Starstruck_48.png",
+                                    "width": 48,
+                                    "height": 48
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/Starstruck_64.png",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/Starstruck_128.png",
+                                    "width": 128,
+                                    "height": 128
+                                }
+                            ],
+                            "icon_width": 512,
+                            "static_icon_width": 512,
+                            "start_date": null,
+                            "is_enabled": true,
+                            "awardings_required_to_grant_benefits": null,
+                            "description": "Can't stop seeing stars",
+                            "end_date": null,
+                            "sticky_duration_seconds": null,
+                            "subreddit_coin_reward": 0,
+                            "count": 1,
+                            "static_icon_height": 512,
+                            "name": "Starstruck",
+                            "resized_static_icons": [
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/snotiq9vxyn51_Starstruck.png?width=16&amp;height=16&amp;auto=webp&amp;v=enabled&amp;s=33eba03e0a6defb8abde795039b68e67e88b065e",
+                                    "width": 16,
+                                    "height": 16
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/snotiq9vxyn51_Starstruck.png?width=32&amp;height=32&amp;auto=webp&amp;v=enabled&amp;s=c78ffa7024982f9d4734f29e69627ec6c4c5484f",
+                                    "width": 32,
+                                    "height": 32
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/snotiq9vxyn51_Starstruck.png?width=48&amp;height=48&amp;auto=webp&amp;v=enabled&amp;s=4e130b357daf70f0a9cc7f8bf8b0e70f0e1e17fd",
+                                    "width": 48,
+                                    "height": 48
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/snotiq9vxyn51_Starstruck.png?width=64&amp;height=64&amp;auto=webp&amp;v=enabled&amp;s=931bd1908b603e61ec971fb9c882d221eb800cc5",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/snotiq9vxyn51_Starstruck.png?width=128&amp;height=128&amp;auto=webp&amp;v=enabled&amp;s=ed034a40c86c89af6308aca761ec27b46e6207f0",
+                                    "width": 128,
+                                    "height": 128
+                                }
+                            ],
+                            "icon_format": "APNG",
+                            "icon_height": 512,
+                            "penny_price": 0,
+                            "award_type": "global",
+                            "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/snotiq9vxyn51_Starstruck.png"
+                        }
+                    ],
+                    "awarders": [],
+                    "media_only": false,
+                    "link_flair_template_id": "7de51ac0-5bb7-11e4-824f-12313b0eb533",
+                    "sr_detail": {
+                        "default_set": true,
+                        "banner_img": "",
+                        "allowed_media_in_comments": [
+                            "expression"
+                        ],
+                        "user_is_banned": false,
+                        "free_form_reports": true,
+                        "community_icon": null,
+                        "show_media": true,
+                        "description": "[](http://goo.gl/vlYYhs)\n[](http://goo.gl/utayY5)\n\n&gt; **gadget** *(noun)* - a small mechanical / electrical device or tool, especially an ingenious or novel one. [Check out our giveaway calendar!](https://calendar.google.com/calendar/u/6?cid=Z2FkZ2V0c21vZHNAZ21haWwuY29t)\n\n\n\n\n### Please read the rules:\n\n1. Submissions must be explicitly about a single gadget. (Posts about software or tech companies will be removed. Gadget concepts which do not actually exist belong in /r/ImaginaryGadgets).\n\n2. Self promotion is not allowed in /r/gadgets. Do not submit links to sites that you are affiliated with. Native advertising and \"advertorials\" are also not allowed.\n\n3. Submissions about pre-release or pre-order products are subject to these rules/conditions: \n   - The article must be from a white listed source.\n   - The article must be about the gadget, not the company, its business practices, or delivery dates etc.\n   - The submitter must not be affiliated with the campaign, company or website\n\n4. No direct image links.\n\n5. Describe the gadget in your post title. No sensationalized, misleading or non-descriptive titles. \n\n6. Articles must about a single gadget, listicles are not allowed.\n\n7. Keep discussions civil and respectful. Know your [reddiquette!](http://www.reddit.com/help/reddiquette). Comments should be on-topic and contribute to the conversation.\n\n8. No Adult Material.\n\n9. English only.\n\n10. If you need advice about a gadget you should ask in the advice [superthread](http://www.reddit.com/r/gadgets/about/sticky?num-1). However we highly recommend you also look [at the list of related subreddits](https://www.reddit.com/r/gadgets/wiki/related_subreddits) since you are more likely to find an answer in a specialized subreddit. \n\n11. Support original sources. Avoid blogs/websites that rehost content without giving credit. Exact copies are never allowed, as are copies that are just slightly rewritten versions of original articles. \n\n12. Follow the [reddit site-wide rules](http://reddit.com/rules).\n\n### Moderation Policy\n\n## We use the [reddit FAQ guidelines for spam](http://www.reddit.com/help/faq#Whatconstitutesspam) when removing spam posts. Additionally, we use a [whitelist system](https://www.reddit.com/r/gadgets/wiki/domainlist).\n\n## **If your submission does not appear in the new tab** - it may have been caught by the spam filter. [Message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fgadgets), and we will look at it.\n\n\n#### Filter by category:\n\nsome|header|header|header\n:---|:---|:---|:---\n[](http://xa.reddit.com/r/gadgets/#xa)|[](http://xc.reddit.com/r/gadgets/#xc)|[](http://xo.reddit.com/r/gadgets/#xo)|[](http://xj.reddit.com/r/gadgets/#xj)\n[](http://xd.reddit.com/r/gadgets/#xd)|[](http://xe.reddit.com/r/gadgets/#xe)|[](http://xf.reddit.com/r/gadgets/#xf)|[](http://xh.reddit.com/r/gadgets/#xh)\n[](http://xb.reddit.com/r/gadgets/#xb)|[](http://xg.reddit.com/r/gadgets/#xg)|[](http://xi.reddit.com/r/gadgets/#xi)|[](http://xk.reddit.com/r/gadgets/#xk)\n[](http://xl.reddit.com/r/gadgets/#xl)|[](http://xm.reddit.com/r/gadgets/#xm)|[](http://xn.reddit.com/r/gadgets/#xn)|[](http://xp.reddit.com/r/gadgets/#xp)\n\n\n### Other subreddits\n\n## [The BIG list of related subreddits](https://www.reddit.com/r/gadgets/wiki/related_subreddits)\n\n\n##### Pro Tip: Computers can get viruses. Distance yourself. Go wireless.\n\n[](http://goo.gl/zMfjcO)",
+                        "user_is_muted": null,
+                        "display_name": "gadgets",
+                        "header_img": "https://b.thumbs.redditmedia.com/1Zt9fQJyK-7-lP2R2E7p0e7_axZ8Rlhh3lxMKO_3QIg.png",
+                        "title": "gadgets",
+                        "previous_names": [],
+                        "user_is_moderator": false,
+                        "over_18": false,
+                        "icon_size": [
+                            256,
+                            256
+                        ],
+                        "primary_color": "#ef6351",
+                        "icon_img": "https://b.thumbs.redditmedia.com/E6-lBIXAELKdtcb4HaXUEuSSIKrsF9tOUgjnb5UYFrU.png",
+                        "icon_color": "",
+                        "is_chat_post_feature_enabled": true,
+                        "submit_link_label": "",
+                        "header_size": [
+                            241,
+                            108
+                        ],
+                        "restrict_posting": true,
+                        "restrict_commenting": false,
+                        "subscribers": 21319771,
+                        "submit_text_label": "",
+                        "link_flair_position": "left",
+                        "display_name_prefixed": "r/gadgets",
+                        "key_color": "#24a0ed",
+                        "name": "t5_2qgzt",
+                        "created": 1190054553.0,
+                        "url": "/r/gadgets/",
+                        "quarantine": false,
+                        "created_utc": 1190054553.0,
+                        "banner_size": null,
+                        "allow_chat_post_creation": false,
+                        "user_is_contributor": false,
+                        "accept_followers": true,
+                        "public_description": "Gadgets",
+                        "link_flair_enabled": true,
+                        "disable_contributor_requests": true,
+                        "subreddit_type": "public",
+                        "user_is_subscriber": true
+                    },
+                    "can_gild": true,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": null,
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "mod_note": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_2qgzt",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "num_reports": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "",
+                    "id": "1494q2t",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "thebelsnickle1991",
+                    "discussion_type": null,
+                    "num_comments": 517,
+                    "send_replies": false,
+                    "whitelist_status": "all_ads",
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": null,
+                    "permalink": "/r/gadgets/comments/1494q2t/for_reasons_no_one_can_fathom_mcdonalds_has/",
+                    "parent_whitelist_status": "all_ads",
+                    "stickied": false,
+                    "url": "https://arstechnica.com/gaming/2023/06/for-reasons-no-one-can-fathom-mcdonalds-has-released-a-new-game-boy-color-game/",
+                    "subreddit_subscribers": 21319771,
+                    "created_utc": 1686739807.0,
+                    "num_crossposts": 4,
+                    "media": null,
+                    "is_video": false
+                }
+            },
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "technology",
+                    "selftext": "",
+                    "author_fullname": "t2_heiec",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "Reddit CEO tells employees that subreddit blackout ‘will pass’",
+                    "link_flair_richtext": [],
+                    "subreddit_name_prefixed": "r/technology",
+                    "hidden": false,
+                    "pwls": 6,
+                    "link_flair_css_class": "general",
+                    "downs": 0,
+                    "thumbnail_height": 73,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "name": "t3_1495poh",
+                    "quarantine": false,
+                    "link_flair_text_color": "dark",
+                    "upvote_ratio": 0.93,
+                    "author_flair_background_color": null,
+                    "ups": 31386,
+                    "domain": "theverge.com",
+                    "media_embed": {},
+                    "thumbnail_width": 140,
+                    "author_flair_template_id": null,
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": false,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": "Social Media",
+                    "can_mod_post": false,
+                    "score": 31386,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "https://b.thumbs.redditmedia.com/oHZyvDgIfHMRs_S49t6-pLc3CPf0xpWsUGgLs3F2QiM.jpg",
+                    "edited": false,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [],
+                    "gildings": {},
+                    "post_hint": "link",
+                    "content_categories": null,
+                    "is_self": false,
+                    "subreddit_type": "public",
+                    "created": 1686742996.0,
+                    "link_flair_type": "text",
+                    "wls": 6,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "text",
+                    "total_awards_received": 3,
+                    "allow_live_comments": true,
+                    "selftext_html": null,
+                    "likes": null,
+                    "suggested_sort": null,
+                    "banned_at_utc": null,
+                    "url_overridden_by_dest": "https://www.theverge.com/2023/6/13/23759559/reddit-internal-memo-api-pricing-changes-steve-huffman",
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": false,
+                    "is_crosspostable": true,
+                    "pinned": false,
+                    "over_18": false,
+                    "preview": {
+                        "images": [
+                            {
+                                "source": {
+                                    "url": "https://external-preview.redd.it/3dqvpY1hkCxqiG_xq-5wJ1Q07s2qy3eZldZEgVBnWu4.jpg?auto=webp&amp;v=enabled&amp;s=d873cf8a7f55547f4377f4be4830c06a5361bab5",
+                                    "width": 1200,
+                                    "height": 628
+                                },
+                                "resolutions": [
+                                    {
+                                        "url": "https://external-preview.redd.it/3dqvpY1hkCxqiG_xq-5wJ1Q07s2qy3eZldZEgVBnWu4.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=74258ca22a290cb57b696fb251d934062e769a00",
+                                        "width": 108,
+                                        "height": 56
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/3dqvpY1hkCxqiG_xq-5wJ1Q07s2qy3eZldZEgVBnWu4.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=79061ba8795229f4125d8333dad2148ec6039def",
+                                        "width": 216,
+                                        "height": 113
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/3dqvpY1hkCxqiG_xq-5wJ1Q07s2qy3eZldZEgVBnWu4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=83f3780473f2b066c47212a9f9ecb5f9ebd4e49f",
+                                        "width": 320,
+                                        "height": 167
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/3dqvpY1hkCxqiG_xq-5wJ1Q07s2qy3eZldZEgVBnWu4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=57dc18873975514c91c5468cc2da4f8fa20c4125",
+                                        "width": 640,
+                                        "height": 334
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/3dqvpY1hkCxqiG_xq-5wJ1Q07s2qy3eZldZEgVBnWu4.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=01b74b03161fea76fa53feb229c3b428cf44e9c0",
+                                        "width": 960,
+                                        "height": 502
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/3dqvpY1hkCxqiG_xq-5wJ1Q07s2qy3eZldZEgVBnWu4.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=eb26b9fb9906336fc0e1cd0a3847cbad758af471",
+                                        "width": 1080,
+                                        "height": 565
+                                    }
+                                ],
+                                "variants": {},
+                                "id": "ijBYDUpt8WEWAB870_o-mQ64Eg3bjpNgp9gNEcFFthc"
+                            }
+                        ],
+                        "enabled": false
+                    },
+                    "all_awardings": [
+                        {
+                            "giver_coin_reward": null,
+                            "subreddit_id": null,
+                            "is_new": false,
+                            "days_of_drip_extension": null,
+                            "coin_price": 30,
+                            "id": "award_b4ff447e-05a5-42dc-9002-63568807cfe6",
+                            "penny_donate": null,
+                            "award_sub_type": "PREMIUM",
+                            "coin_reward": 0,
+                            "icon_url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_512.png",
+                            "days_of_premium": null,
+                            "tiers_by_required_awardings": null,
+                            "resized_icons": [
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_16.png",
+                                    "width": 16,
+                                    "height": 16
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_32.png",
+                                    "width": 32,
+                                    "height": 32
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_48.png",
+                                    "width": 48,
+                                    "height": 48
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_64.png",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_128.png",
+                                    "width": 128,
+                                    "height": 128
+                                }
+                            ],
+                            "icon_width": 2048,
+                            "static_icon_width": 2048,
+                            "start_date": null,
+                            "is_enabled": true,
+                            "awardings_required_to_grant_benefits": null,
+                            "description": "A glowing commendation for all to see",
+                            "end_date": null,
+                            "sticky_duration_seconds": null,
+                            "subreddit_coin_reward": 0,
+                            "count": 1,
+                            "static_icon_height": 2048,
+                            "name": "All-Seeing Upvote",
+                            "resized_static_icons": [
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/am40b8b08l581_All-SeeingUpvote2.png?width=16&amp;height=16&amp;auto=webp&amp;v=enabled&amp;s=25880d00e4283ff6a3851b64c83fea465c3fac48",
+                                    "width": 16,
+                                    "height": 16
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/am40b8b08l581_All-SeeingUpvote2.png?width=32&amp;height=32&amp;auto=webp&amp;v=enabled&amp;s=67fae0c2af26488b9d70cb7afe877086707cf1d1",
+                                    "width": 32,
+                                    "height": 32
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/am40b8b08l581_All-SeeingUpvote2.png?width=48&amp;height=48&amp;auto=webp&amp;v=enabled&amp;s=3033c6583809a27b998883b7c56c158102cb0420",
+                                    "width": 48,
+                                    "height": 48
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/am40b8b08l581_All-SeeingUpvote2.png?width=64&amp;height=64&amp;auto=webp&amp;v=enabled&amp;s=cccb48d7518eaba72894a7ac4214bb70c7120793",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/am40b8b08l581_All-SeeingUpvote2.png?width=128&amp;height=128&amp;auto=webp&amp;v=enabled&amp;s=4101e0eff424bbd818195853387db358bec74ed0",
+                                    "width": 128,
+                                    "height": 128
+                                }
+                            ],
+                            "icon_format": "APNG",
+                            "icon_height": 2048,
+                            "penny_price": null,
+                            "award_type": "global",
+                            "static_icon_url": "https://i.redd.it/award_images/t5_q0gj4/am40b8b08l581_All-SeeingUpvote2.png"
+                        },
+                        {
+                            "giver_coin_reward": null,
+                            "subreddit_id": null,
+                            "is_new": false,
+                            "days_of_drip_extension": null,
+                            "coin_price": 100,
+                            "id": "award_19860e30-3331-4bac-b3d1-bd28de0c7974",
+                            "penny_donate": null,
+                            "award_sub_type": "GLOBAL",
+                            "coin_reward": 0,
+                            "icon_url": "https://i.redd.it/award_images/t5_22cerq/v1mxw8i6wnf51_Heartwarming.png",
+                            "days_of_premium": null,
+                            "tiers_by_required_awardings": null,
+                            "resized_icons": [
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/v1mxw8i6wnf51_Heartwarming.png?width=16&amp;height=16&amp;auto=webp&amp;v=enabled&amp;s=7434e8ec65f434b811666ff6be1cbc18e675c5bf",
+                                    "width": 16,
+                                    "height": 16
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/v1mxw8i6wnf51_Heartwarming.png?width=32&amp;height=32&amp;auto=webp&amp;v=enabled&amp;s=aacfdc98efb123d6d4464d6a227aff2f9d90a3fb",
+                                    "width": 32,
+                                    "height": 32
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/v1mxw8i6wnf51_Heartwarming.png?width=48&amp;height=48&amp;auto=webp&amp;v=enabled&amp;s=af6b886c9a013bed09f09ef8bb3757f14a1286b9",
+                                    "width": 48,
+                                    "height": 48
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/v1mxw8i6wnf51_Heartwarming.png?width=64&amp;height=64&amp;auto=webp&amp;v=enabled&amp;s=0e3debe040221236e3cdde5840d9ea8f67d7dca9",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/v1mxw8i6wnf51_Heartwarming.png?width=128&amp;height=128&amp;auto=webp&amp;v=enabled&amp;s=bd5fb5fe09c1ac5e0d58faed4fc7e9108f6f7718",
+                                    "width": 128,
+                                    "height": 128
+                                }
+                            ],
+                            "icon_width": 2048,
+                            "static_icon_width": 2048,
+                            "start_date": null,
+                            "is_enabled": true,
+                            "awardings_required_to_grant_benefits": null,
+                            "description": "I needed this today",
+                            "end_date": null,
+                            "sticky_duration_seconds": null,
+                            "subreddit_coin_reward": 0,
+                            "count": 1,
+                            "static_icon_height": 2048,
+                            "name": "Heartwarming",
+                            "resized_static_icons": [
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/v1mxw8i6wnf51_Heartwarming.png?width=16&amp;height=16&amp;auto=webp&amp;v=enabled&amp;s=7434e8ec65f434b811666ff6be1cbc18e675c5bf",
+                                    "width": 16,
+                                    "height": 16
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/v1mxw8i6wnf51_Heartwarming.png?width=32&amp;height=32&amp;auto=webp&amp;v=enabled&amp;s=aacfdc98efb123d6d4464d6a227aff2f9d90a3fb",
+                                    "width": 32,
+                                    "height": 32
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/v1mxw8i6wnf51_Heartwarming.png?width=48&amp;height=48&amp;auto=webp&amp;v=enabled&amp;s=af6b886c9a013bed09f09ef8bb3757f14a1286b9",
+                                    "width": 48,
+                                    "height": 48
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/v1mxw8i6wnf51_Heartwarming.png?width=64&amp;height=64&amp;auto=webp&amp;v=enabled&amp;s=0e3debe040221236e3cdde5840d9ea8f67d7dca9",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/v1mxw8i6wnf51_Heartwarming.png?width=128&amp;height=128&amp;auto=webp&amp;v=enabled&amp;s=bd5fb5fe09c1ac5e0d58faed4fc7e9108f6f7718",
+                                    "width": 128,
+                                    "height": 128
+                                }
+                            ],
+                            "icon_format": "PNG",
+                            "icon_height": 2048,
+                            "penny_price": 0,
+                            "award_type": "global",
+                            "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/v1mxw8i6wnf51_Heartwarming.png"
+                        },
+                        {
+                            "giver_coin_reward": null,
+                            "subreddit_id": null,
+                            "is_new": false,
+                            "days_of_drip_extension": null,
+                            "coin_price": 250,
+                            "id": "award_e11fc833-31fe-4c43-bde8-aead928b4b70",
+                            "penny_donate": null,
+                            "award_sub_type": "GLOBAL",
+                            "coin_reward": 0,
+                            "icon_url": "https://www.redditstatic.com/gold/awards/icon/That_Smile_512.png",
+                            "days_of_premium": null,
+                            "tiers_by_required_awardings": null,
+                            "resized_icons": [
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/That_Smile_16.png",
+                                    "width": 16,
+                                    "height": 16
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/That_Smile_32.png",
+                                    "width": 32,
+                                    "height": 32
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/That_Smile_48.png",
+                                    "width": 48,
+                                    "height": 48
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/That_Smile_64.png",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/That_Smile_128.png",
+                                    "width": 128,
+                                    "height": 128
+                                }
+                            ],
+                            "icon_width": 512,
+                            "static_icon_width": 512,
+                            "start_date": null,
+                            "is_enabled": true,
+                            "awardings_required_to_grant_benefits": null,
+                            "description": "Cute but creepy",
+                            "end_date": null,
+                            "sticky_duration_seconds": null,
+                            "subreddit_coin_reward": 0,
+                            "count": 1,
+                            "static_icon_height": 512,
+                            "name": "That Smile",
+                            "resized_static_icons": [
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/9nz3es19ti171_ThatSmile.png?width=16&amp;height=16&amp;auto=webp&amp;v=enabled&amp;s=687943084ebe54fa436bc0fcd1e34eb3e8426534",
+                                    "width": 16,
+                                    "height": 16
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/9nz3es19ti171_ThatSmile.png?width=32&amp;height=32&amp;auto=webp&amp;v=enabled&amp;s=524500bd77a3c8a6fec26e376379e47bc16765ee",
+                                    "width": 32,
+                                    "height": 32
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/9nz3es19ti171_ThatSmile.png?width=48&amp;height=48&amp;auto=webp&amp;v=enabled&amp;s=42e39f5d2ba584a70b55766a3c9d27fd76aa45a0",
+                                    "width": 48,
+                                    "height": 48
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/9nz3es19ti171_ThatSmile.png?width=64&amp;height=64&amp;auto=webp&amp;v=enabled&amp;s=0d2547c11dab00e93b8df1847a1da1aa77c34697",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/9nz3es19ti171_ThatSmile.png?width=128&amp;height=128&amp;auto=webp&amp;v=enabled&amp;s=1cfadd7f7eab0d6cbc6af259fdda286bc766fafe",
+                                    "width": 128,
+                                    "height": 128
+                                }
+                            ],
+                            "icon_format": "APNG",
+                            "icon_height": 512,
+                            "penny_price": 0,
+                            "award_type": "global",
+                            "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/9nz3es19ti171_ThatSmile.png"
+                        }
+                    ],
+                    "awarders": [],
+                    "media_only": false,
+                    "link_flair_template_id": "7d4d8376-a816-11e9-a92d-0e6b9fa95170",
+                    "sr_detail": {
+                        "default_set": true,
+                        "banner_img": "",
+                        "allowed_media_in_comments": [
+                            "expression"
+                        ],
+                        "user_is_banned": false,
+                        "free_form_reports": true,
+                        "community_icon": null,
+                        "show_media": true,
+                        "description": "/r/technology is a place to share and discuss the latest developments, happenings and curiosities in the world of technology; a broad spectrum of conversation as to the innovations, aspirations, applications and machinations that define our age and shape our future. \n\n---\n---\n\n###Browse categories:\n\n | |\n-|-\n[Artificial Intelligence](https://bit.ly/2O1fsOK)|[Business](https://goo.gl/tmoLMB#Business)\n[Biotechnology](https://bit.ly/2M1cGGv)|[Crypto](https://bit.ly/2LWVkuv)\n[Energy](https://goo.gl/urO5Pe#Energy)|[Hardware](https://goo.gl/IIGWMH#Hardware)\n[Machine Learning](https://bit.ly/2NWNaEW)|[Nanotech/Materials](https://bit.ly/2O2P9aP)\n[Networking/Telecom](https://bit.ly/2LYW5TM)|[Net Neutrality](https://bit.ly/2Sl0dhV)\n[Politics](https://goo.gl/aoMkzE#Politics)|[Privacy](https://bit.ly/2XPUGWH)\n[Robotics/Automation](https://bit.ly/2xNXFQb)|[Security](https://goo.gl/9r2mbh#Security)\n[Social Media](https://bit.ly/2XV9oqA)|[Society](https://goo.gl/fYknt8#Society)\n[Software](https://goo.gl/HpBrUv#Software)|[Space](https://goo.gl/kM2MgU#Space)\n[Transportation](https://bit.ly/2LnXhk0)|[Legacy \\*Pure Tech\\* Filter](http://goo.gl/cEuAxQ)\n\n#### [Weekly Support Thread Archives](https://www.reddit.com/r/technology/search?q=flair%3ATechSupport&amp;restrict_sr=on&amp;sort=new&amp;t=all)\n\n### Hide popular topics:\n\n\n[No Net Neutrality](https://nt.reddit.com/r/technology#sFilter) -\n[Remove Filter](https://www.reddit.com/r/technology#sFilter)\n\n---\n---\n\n\n#Rules:\n\n##1. Submissions\n\n* ####Guidelines:\n\n* Submissions must be primarily news and developments relating to technology\n\n* [Self posts](https://www.reddit.com/r/technology/wiki/self-post-guide) must contribute positively to /r/technology and foster reasonable discussion. Self-post cross-posts are not acceptable.\n\n* Submissions relating to business and politics must be sufficiently within the context of technology in that they either view the events from a technological standpoint or analyse the repercussions in the technological world.\n\n* ####Please do not submit the following:\n\n* i) Submissions violating the guidelines.\n\n* ii) Images, audio or videos: Articles with supporting image and video content are allowed; if the text is only there to explain the media, then it is not suitable. A good rule of thumb is to look at the URL; if it's a video hosting site, or mentions `video` in the URL, it's not suitable. \n\n* iii) Requests for tech support, questions or help: submit to /r/techsupport, /r/AskTechnology, another relevant community or our weekly [Support Saturday threads](https://www.reddit.com/r/technology/search?q=flair%3ATechSupport&amp;restrict_sr=on&amp;sort=new&amp;t=all).\n\n* iv) Petitions, Surveys or Crowdfunding (Including ICOs) - submissions of this nature will be removed.\n\n* v) Submissions discussing the subreddit itself; they should be submitted to /r/TechnologyTalk, or [messaged to the moderators of the subreddit](/message/compose?to=%2Fr%2Ftechnology).\n\n* vi) Submissions discussing one or more incidents of customer support.\n\n* vii) Mobile versions of sites, url shorteners: please directly submit the desktop version of a webpage in all cases.\n\n* viii) Social media links/profiles/invites or promotions (eg. Facebook, Instagram, Pintrest etc). Tweets should not be used as a news source unless an official announcement by a verified company or spokesperson. \n\n##2. Behaviour\n\n* **Remember the human** You are advised to abide by [reddiquette](/wiki/reddiquette); it will be enforced when user behaviour is no longer deemed to be suitable for a technology forum. Remember; personal attacks, abusive language, trolling or bigotry in any form are therefore not allowed and will be removed. Repeated abuse can result in a permanent ban.\n\n##3. Titles\n\n* Submissions **must** use either the articles title and optionally a subtitle. Or, ***only*** if neither are accurate, a suitable quote, which must:\n\n* adequately describe the content\n\n* adequately describe the content's relation to technology\n\n* be free of user editorialization or alteration of meaning. \n\n##4. Flair\n\n* Please flair your submission appropriately. [An extended guide to flairing can be found here, in the wiki](/r/technology/wiki/flair).\n\n##5. Reddit-wide rules.\n\n* [All reddit-wide rules apply here](/rules). Do not [spam](/wiki/faq#wiki_what_constitutes_spam.3F). No Self Promotion.\n\n***\n\n##Miscellanea\n\n* If you see a rule-breaking submission, please report it and [message the moderators](/message/compose?to=%2Fr%2Ftechnology) with your reason.\n\n* Want to host an AMA? Please [message the moderators](/message/compose?to=%2Fr%2Ftechnology).\n\n* Our /u/AutoModerator configuration may be viewed [here](https://imgur.com/a/EOi0n). \n\n* Removed posts will either be given a removal reason flair and/or comment response; please message the moderators if this did not occur.\n\n* All legitimate, answerable modmail inquiries or suggestions will be answered to the best of our abilities within a reasonable period of time. \n\n#Related Subreddits\n\n## Technology\n\n* /r/AskTechnology\n* /r/Futurology\n* /r/Gadgets\n* /r/Hardware\n* /r/Tech\n* /r/Technews\n* /r/Realtech\n* /r/PCMasterRace\n* /r/BuildAPC\n* /r/BuildAPCSales\n* /r/InternetIsBeautiful \n* /r/RenewableEnergy\n* /r/SelfDrivingCars\n* /r/TechSupport\n* /r/TalesFromTechSupport\n* /r/TechSupportGore\n* /r/TechnologyPorn\n* /r/ImaginaryTechnology\n* /r/Kickstarter\n* /r/Homeautomation\n* /r/Artificial\n\n##PROGRAMMING\n\n* /r/Programming\n* /r/Learnprogramming\n* [Language-Specific Communities](/r/programming/wiki/faq#wiki_what_language_reddits_are_there.3F)\n* /r/CScareerquestions\n* /r/CompSci\n* /r/NetSec\n* /r/Engineering\n* /r/Hacking\n\n\n##OS's\n\n* /r/Windows\n* /r/OSX\n* /r/Linux\n* /r/Ubuntu\n* /r/Debian\n* /r/Archlinux\n* /r/Raspberry_pi\n* /r/Chromeos\n* /r/ReactOS\n* /r/RemixOS\n* /r/Android\n* /r/iOS\n* /r/Jailbreak\n* /r/LineageOS\n\n##SOFTWARE\n\n* /r/Software\n* /r/Firefox\n* /r/Chrome\n* /r/Photoshop \n* /r/Kodi \n\n##POPULAR COMPANIES\n\n* /r/Google\n* /r/Microsoft\n* /r/Apple\n* /r/Amazon\n* /r/Startups\n\n##CRYPTOCURRENCIES\n\n* /r/CryptoCurrency\n* /r/Ethereum\n* /r/BTC\n* /r/Bitcoin\n\n##CAMPAIGNS\n\n* /r/KeepOurNetFree \n* /r/Pirateparty \n* /r/Privacy",
+                        "user_is_muted": null,
+                        "display_name": "technology",
+                        "header_img": "https://a.thumbs.redditmedia.com/VwBugImhQhFTJhC0HjM9IWyEEEF898HHtI2AunD5SW4.png",
+                        "title": "/r/Technology ",
+                        "previous_names": [],
+                        "user_is_moderator": false,
+                        "over_18": false,
+                        "icon_size": [
+                            256,
+                            256
+                        ],
+                        "primary_color": "",
+                        "icon_img": "https://b.thumbs.redditmedia.com/J_fCwTYJkoM-way-eaOHv8AOHoF_jNXNqOvPrQ7bINY.png",
+                        "icon_color": "",
+                        "is_chat_post_feature_enabled": true,
+                        "submit_link_label": "",
+                        "header_size": [
+                            40,
+                            61
+                        ],
+                        "restrict_posting": true,
+                        "restrict_commenting": false,
+                        "subscribers": 14330455,
+                        "submit_text_label": "",
+                        "link_flair_position": "left",
+                        "display_name_prefixed": "r/technology",
+                        "key_color": "#0dd3bb",
+                        "name": "t5_2qh16",
+                        "created": 1201231675.0,
+                        "url": "/r/technology/",
+                        "quarantine": false,
+                        "created_utc": 1201231675.0,
+                        "banner_size": null,
+                        "allow_chat_post_creation": false,
+                        "user_is_contributor": false,
+                        "accept_followers": true,
+                        "public_description": "Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.",
+                        "link_flair_enabled": true,
+                        "disable_contributor_requests": true,
+                        "subreddit_type": "public",
+                        "user_is_subscriber": true
+                    },
+                    "can_gild": true,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": null,
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "mod_note": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_2qh16",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "num_reports": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "",
+                    "id": "1495poh",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "akvgergo",
+                    "discussion_type": null,
+                    "num_comments": 4432,
+                    "send_replies": true,
+                    "whitelist_status": "all_ads",
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": null,
+                    "permalink": "/r/technology/comments/1495poh/reddit_ceo_tells_employees_that_subreddit/",
+                    "parent_whitelist_status": "all_ads",
+                    "stickied": false,
+                    "url": "https://www.theverge.com/2023/6/13/23759559/reddit-internal-memo-api-pricing-changes-steve-huffman",
+                    "subreddit_subscribers": 14330455,
+                    "created_utc": 1686742996.0,
+                    "num_crossposts": 3,
+                    "media": null,
+                    "is_video": false
+                }
+            }
+        ],
+        "before": null
+    }
+}

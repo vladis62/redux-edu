@@ -1,0 +1,19 @@
+.input {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.textarea {
+    width: 100%;
+    height: 89px;
+}
+
+.button {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    padding: 17px 49px;
+    background-color: #CC6633;
+    color: #FFFFFF;
+}

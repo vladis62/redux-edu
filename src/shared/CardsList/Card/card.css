@@ -1,0 +1,136 @@
+button {
+  background: transparent;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+}
+
+.card {
+  position: relative;
+  background-color: var(--white);
+  border-radius: 7px;
+  padding: 20px 20px 10px;
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.card>*,
+.textContent>* {
+  flex: 1 1 100%;
+}
+
+.card>*+* {
+  padding: 13px 0 0;
+}
+
+.card:hover h2 a,
+.card:focus-within h2 a {
+  color: var(--orange);
+}
+
+@media all and (min-width: 1024px) {
+  .card {
+    background-color: transparent;
+    flex-flow: row nowrap;
+    max-height: 107px;
+    padding: 0 40px;
+  }
+
+  .card>* {
+    flex: 0 0;
+  }
+
+  .card>*+* {
+    padding: 0;
+  }
+}
+
+@media all and (min-width: 1540px) {
+  .card {
+    padding: 0px 60px;
+    /* max-height: 147px; */
+    cursor: pointer;
+  }
+
+  .textContent {
+    flex-basis: 672px;
+  }
+
+  .card:hover,
+  .card:focus-within {
+    outline: 1px solid var(--grey-demi-dark);
+  }
+
+  .userLink:hover a {
+    text-decoration: underline;
+  }
+
+  .menuButton:hover {
+    background-color: rgba(51, 51, 51, 0.1);
+  }
+
+  .karmaCounter>bottom.up:hover>svg>path {
+    fill: var(--green);
+  }
+
+  .karmaCounter>bottom.down:hover>svg>path {
+    fill: var(--orange);
+  }
+}
+
+/* Menu */
+
+.menu {
+  position: absolute;
+  top: 17px;
+  right: 15px;
+  padding: 0;
+}
+
+.menuButton {
+  width: 31px;
+  height: 31px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: rotate(90deg);
+  border-radius: 31px;
+}
+
+.menuButton:hover {
+  background-color: rgba(51, 51, 51, 0.1);
+}
+
+.menuButton:active {
+  background-color: rgba(51, 51, 51, 0.1);
+}
+
+@media all and (min-width: 1024px) {
+  .menu {
+    position: relative;
+    order: 2;
+    display: flex;
+    align-items: center;
+    flex: 0 0;
+    top: unset;
+    right: unset;
+    margin: 0 0 0 auto;
+  }
+
+  .menuButton {
+    align-self: center;
+    transform: unset;
+  }
+}
+
+@media all and (min-width: 1540px) {
+  .menuButton:hover {
+    background-color: rgba(51, 51, 51, 0.1);
+  }
+}
+
+.itemSvg {
+  width: 14px;
+  height: 14px;
+  margin-right: 5px;
+}

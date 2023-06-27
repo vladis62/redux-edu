@@ -1,0 +1,39 @@
+.comment__data {
+    display: flex;
+    margin-bottom: 9px;
+}
+
+.name {
+    color: #CC6633;
+}
+
+.league {
+    padding: 2px 7px;
+    background-color: #D9D9D9;
+}
+
+.comment__text {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    margin-bottom: 12px;
+}
+
+.list__comments {
+    margin-bottom: 20px;
+    padding-left: 10px;
+    border-left: 3px solid #D9D9D9;;
+}
+
+.list__action {
+    display: flex;
+    flex-direction: row;
+}
+
+.item__action {
+    margin-right: 27px;
+}
+
+.comment__svg {
+    margin-right: 5px;
+}
