@@ -3,8 +3,6 @@ import ReactDOM from 'react-dom/server'
 import { App } from '../App';
 import { indexTemplate } from './indexTemplate'
 import axios from 'axios';
-import { setToken } from '../actions/tokenActions';
-import store from "../../store";
 
 const app = express();
 
@@ -23,7 +21,6 @@ app.get('/auth', (req, res) => {
       headers: { 'Content-type': 'application/x-www-form-urlencoded' }
     }
   ).then(({ data }) => {
-    store.dispatch(setToken(data['access_token']));
     res.send(
       indexTemplate(ReactDOM.renderToString(App()), data['access_token']),
     );
